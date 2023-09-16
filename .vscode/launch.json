@@ -1,0 +1,791 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CountChar",
+            "request": "launch",
+            "mainClass": "CountChar",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "MyThread1",
+            "request": "launch",
+            "mainClass": "MyThread1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "MyThread",
+            "request": "launch",
+            "mainClass": "MyThread",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Voter2",
+            "request": "launch",
+            "mainClass": "Voter2",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "VoterId",
+            "request": "launch",
+            "mainClass": "VoterId",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_53Voterid",
+            "request": "launch",
+            "mainClass": "_53Voterid",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_52WeeksDay",
+            "request": "launch",
+            "mainClass": "_52WeeksDay",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_51Sum",
+            "request": "launch",
+            "mainClass": "_51Sum",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Persion",
+            "request": "launch",
+            "mainClass": "Persion",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "CountVowel",
+            "request": "launch",
+            "mainClass": "CountVowel",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "_42Student.BankAccount.java.Bank",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_46Xyz",
+            "request": "launch",
+            "mainClass": "_42Student._46Xyz",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_45Tax",
+            "request": "launch",
+            "mainClass": "_42Student._45Tax",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_44Procces",
+            "request": "launch",
+            "mainClass": "_42Student._44Procces",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "StudentDtls",
+            "request": "launch",
+            "mainClass": "_42Student.StudentDtls",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "StudentS",
+            "request": "launch",
+            "mainClass": "StudentS",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "ProductA",
+            "request": "launch",
+            "mainClass": "ProductA",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_36Product",
+            "request": "launch",
+            "mainClass": "_36Product",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_35Employee",
+            "request": "launch",
+            "mainClass": "_35Employee",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_33Person",
+            "request": "launch",
+            "mainClass": "_33Person",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_31MathOp",
+            "request": "launch",
+            "mainClass": "_31MathOp",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_30CalRedies",
+            "request": "launch",
+            "mainClass": "_30CalRedies",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_29Transpose",
+            "request": "launch",
+            "mainClass": "_29Transpose",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_22Number",
+            "request": "launch",
+            "mainClass": "_22Number",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Marrige",
+            "request": "launch",
+            "mainClass": "Marrige",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "PrintXY",
+            "request": "launch",
+            "mainClass": "xyzValue.java.xyzValue.xyzValues.PrintXY",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "xyzValue.java.xyzValue.xyzValues.Print",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateRemove",
+            "request": "launch",
+            "mainClass": "DuplicateRemove",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "replaceSpace",
+            "request": "launch",
+            "mainClass": "Ccode.replaceSpace",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "SecondHighest",
+            "request": "launch",
+            "mainClass": "SecondHighest",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "ToArrays",
+            "request": "launch",
+            "mainClass": "Ccode.ToArrays",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Number3",
+            "request": "launch",
+            "mainClass": "Ccode.Number3",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Number2",
+            "request": "launch",
+            "mainClass": "Ccode.Number2",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Number1",
+            "request": "launch",
+            "mainClass": "Ccode.Number1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star6",
+            "request": "launch",
+            "mainClass": "Ccode.Star6",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star5",
+            "request": "launch",
+            "mainClass": "Ccode.Star5",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star4",
+            "request": "launch",
+            "mainClass": "Ccode.Star4",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star3",
+            "request": "launch",
+            "mainClass": "Ccode.Star3",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star2",
+            "request": "launch",
+            "mainClass": "Ccode.Star2",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star1",
+            "request": "launch",
+            "mainClass": "Ccode.Star1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Ccode.Star",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Calculate",
+            "request": "launch",
+            "mainClass": "Ccode.Calculate",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Ccode.Factorial",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "CharVowel",
+            "request": "launch",
+            "mainClass": "Ccode.CharVowel",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Ccode.Student",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "ElectricBil",
+            "request": "launch",
+            "mainClass": "ElectricBil",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "ToMap",
+            "request": "launch",
+            "mainClass": "ToMap",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Distainct",
+            "request": "launch",
+            "mainClass": "Distainct",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "wordCount",
+            "request": "launch",
+            "mainClass": "wordCount",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "DublicatCharCount",
+            "request": "launch",
+            "mainClass": "DublicatCharCount",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Removing1",
+            "request": "launch",
+            "mainClass": "Removing1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "SecoundHigh",
+            "request": "launch",
+            "mainClass": "SecoundHigh",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Gretest1",
+            "request": "launch",
+            "mainClass": "Test.Gretest1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Highest",
+            "request": "launch",
+            "mainClass": "Highest",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_10",
+            "request": "launch",
+            "mainClass": "StarPattern._10",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_9",
+            "request": "launch",
+            "mainClass": "StarPattern._9",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_8",
+            "request": "launch",
+            "mainClass": "StarPattern._8",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_7",
+            "request": "launch",
+            "mainClass": "StarPattern._7",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "_6",
+            "request": "launch",
+            "mainClass": "StarPattern._6",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Five",
+            "request": "launch",
+            "mainClass": "StarPattern.Five",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Four",
+            "request": "launch",
+            "mainClass": "StarPattern.Four",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Three",
+            "request": "launch",
+            "mainClass": "StarPattern.Three",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Secound",
+            "request": "launch",
+            "mainClass": "StarPattern.Secound",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "StarPattern.First",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Armostream",
+            "request": "launch",
+            "mainClass": "Armostream",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "ArraySumAndAVG",
+            "request": "launch",
+            "mainClass": "ArraySumAndAVG",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "BHK",
+            "request": "launch",
+            "mainClass": "BHK",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDtls",
+            "request": "launch",
+            "mainClass": "EmployeeDtls",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "FacalatyDtls",
+            "request": "launch",
+            "mainClass": "Facalty.FacalatyDtls",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "GrossSalary",
+            "request": "launch",
+            "mainClass": "GrossSalary",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "MaqthOperation",
+            "request": "launch",
+            "mainClass": "MaqthOperation",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "MathOparation",
+            "request": "launch",
+            "mainClass": "MathOparation",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Maximum",
+            "request": "launch",
+            "mainClass": "Maximum",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "NonRepeatchar",
+            "request": "launch",
+            "mainClass": "NonRepeatchar",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "PowerNumber",
+            "request": "launch",
+            "mainClass": "PowerNumber",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Producat",
+            "request": "launch",
+            "mainClass": "Producat",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicat",
+            "request": "launch",
+            "mainClass": "RemoveDuplicat",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "StudentDtls",
+            "request": "launch",
+            "mainClass": "Student.StudentDtls",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "SumNumber",
+            "request": "launch",
+            "mainClass": "SumNumber",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Gratest",
+            "request": "launch",
+            "mainClass": "Test.Gratest",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Test.Prime",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNo",
+            "request": "launch",
+            "mainClass": "Test.PrimeNo",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Reverce",
+            "request": "launch",
+            "mainClass": "Test.Reverce",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Test.Star",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Star1",
+            "request": "launch",
+            "mainClass": "Test.Star1",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "TwoNumPrime",
+            "request": "launch",
+            "mainClass": "TwoNumPrime",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "Years",
+            "request": "launch",
+            "mainClass": "Years",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "SPCode_af2bd05e"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "SPCode_af2bd05e"
+        }
+    ]
+}
